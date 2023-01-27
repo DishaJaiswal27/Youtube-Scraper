@@ -5,3 +5,8 @@ Along with this it collects the each playlist data and convert into the pdf file
 Data includes title of the playlist and its duration.
 
 Created using js and puppeteer and pdfkit.
+
+
+//cmds
+npm init -y
+npm i puppeteer pdfkit
